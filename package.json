@@ -1,0 +1,36 @@
+{
+  "name": "sharepoint-clientid-secret-authentication",
+  "version": "1.0.0",
+  "description": "SharePoint Online Azure Access Control (ACS) Authentication. How to?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VelinGeorgiev/SharePoint-ClientId-Secret-Authentication.git"
+  },
+  "keywords": [
+    "SharePoint",
+    "Online",
+    "Azure",
+    "Access",
+    "Control",
+    "ACS",
+    "Authentication",
+    "ClientId",
+    "Secret",
+    "App",
+    "Add-in",
+    "AppOnlyAccessToken"
+  ],
+  "author": "Velin Georgiev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/VelinGeorgiev/SharePoint-ClientId-Secret-Authentication/issues"
+  },
+  "homepage": "https://github.com/VelinGeorgiev/SharePoint-ClientId-Secret-Authentication#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "3.0.0"
+  }
+}
